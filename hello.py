@@ -1,3 +1,5 @@
-print('hello')
+print('Hello')
 
-print('Editing this file for the first time')
+
+def add_sum(x, y):
+    return x + y
